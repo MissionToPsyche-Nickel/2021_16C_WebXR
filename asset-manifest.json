@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/2021_16C_WebXR/static/css/main.33d0e61a.chunk.css",
+    "main.js": "/2021_16C_WebXR/static/js/main.0689cd9a.chunk.js",
+    "main.js.map": "/2021_16C_WebXR/static/js/main.0689cd9a.chunk.js.map",
+    "runtime-main.js": "/2021_16C_WebXR/static/js/runtime-main.f74b958b.js",
+    "runtime-main.js.map": "/2021_16C_WebXR/static/js/runtime-main.f74b958b.js.map",
+    "static/js/2.90247031.chunk.js": "/2021_16C_WebXR/static/js/2.90247031.chunk.js",
+    "static/js/2.90247031.chunk.js.map": "/2021_16C_WebXR/static/js/2.90247031.chunk.js.map",
+    "index.html": "/2021_16C_WebXR/index.html",
+    "precache-manifest.c13d03ae091bed070105f32be65314f3.js": "/2021_16C_WebXR/precache-manifest.c13d03ae091bed070105f32be65314f3.js",
+    "service-worker.js": "/2021_16C_WebXR/service-worker.js",
+    "static/css/main.33d0e61a.chunk.css.map": "/2021_16C_WebXR/static/css/main.33d0e61a.chunk.css.map",
+    "static/js/2.90247031.chunk.js.LICENSE.txt": "/2021_16C_WebXR/static/js/2.90247031.chunk.js.LICENSE.txt",
+    "static/media/Liangbin.png": "/2021_16C_WebXR/static/media/Liangbin.c34048df.png",
+    "static/media/Menu-AboutPsyche.png": "/2021_16C_WebXR/static/media/Menu-AboutPsyche.64d46ac5.png",
+    "static/media/Menu-AboutTeam.png": "/2021_16C_WebXR/static/media/Menu-AboutTeam.a3eb899c.png",
+    "static/media/Menu-Asteriod.png": "/2021_16C_WebXR/static/media/Menu-Asteriod.1eb706df.png",
+    "static/media/MenuButton.svg": "/2021_16C_WebXR/static/media/MenuButton.68d5c323.svg",
+    "static/media/Psyche-Badge-Mono.png": "/2021_16C_WebXR/static/media/Psyche-Badge-Mono.3fc8937d.png",
+    "static/media/Psyche-Badge.png": "/2021_16C_WebXR/static/media/Psyche-Badge.854bbd7e.png",
+    "static/media/RetroSpaceCraft.png": "/2021_16C_WebXR/static/media/RetroSpaceCraft.ea725d27.png",
+    "static/media/Ryan.png": "/2021_16C_WebXR/static/media/Ryan.6b8138fc.png",
+    "static/media/Spacecraft.glb": "/2021_16C_WebXR/static/media/Spacecraft.9c5830ab.glb",
+    "static/media/TexturedAsteroid.glb": "/2021_16C_WebXR/static/media/TexturedAsteroid.8592cb16.glb",
+    "static/media/Yu.png": "/2021_16C_WebXR/static/media/Yu.c069603d.png",
+    "static/media/Zack.png": "/2021_16C_WebXR/static/media/Zack.4323e80b.png",
+    "static/media/github.png": "/2021_16C_WebXR/static/media/github.ff1d322d.png",
+    "static/media/orbits-v2.svg": "/2021_16C_WebXR/static/media/orbits-v2.adb54d02.svg",
+    "static/media/starmap_background.jpg": "/2021_16C_WebXR/static/media/starmap_background.c924862b.jpg",
+    "static/media/trajectory.svg": "/2021_16C_WebXR/static/media/trajectory.d0a6e038.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f74b958b.js",
+    "static/js/2.90247031.chunk.js",
+    "static/css/main.33d0e61a.chunk.css",
+    "static/js/main.0689cd9a.chunk.js"
+  ]
+}
